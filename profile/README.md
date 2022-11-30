@@ -8,6 +8,6 @@ This GitHub organization is where you will find content and exercises for this c
 
 You may find the following links useful:
 
-- [Our Canvas Course]()
+- [Our Canvas Course](https://canvas.instructure.com/courses/5587125)
 - [INSTRUCTOR-A's Office Hours Sign-up]()
 - [INSTRUCTOR-B's Office Hours Sign-up]()
