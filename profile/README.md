@@ -1,5 +1,3 @@
-> **Note**: Instructors, please update this `readme.md` file with information relevant to your course. Then, rename this repository to just `.github`.
-
 # Welcome to Pursuit!
 
 This GitHub organization is where you will find content and exercises for this course. Please click the **Follow** button at the top of the page to stay updated on changes happening in this space.
@@ -15,4 +13,9 @@ You may find the following links useful:
   - Wednesday 4:30-5:00
   - Thursday 4:00-4:30
   - Friday 2:00-3:00
-- [INSTRUCTOR-B's Office Hours Sign-up]()
+- [Pak's Office Hours Zoom Link](https://us06web.zoom.us/j/82967896938)
+  - Monday 3:30-4:00
+  - Tuesday 3:30-4:00
+  - Wednesday 4:00-5:00
+  - Thursday 3:30-4:00
+  - Friday 3:30-4:00
